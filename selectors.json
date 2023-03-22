@@ -1,0 +1,6 @@
+{
+    "site_url": "https://cav.receita.fazenda.gov.br/autenticacao/login",
+    "simples_nacional": "#btn266",
+    "url_pgdas": "https://sinac.cav.receita.fazenda.gov.br/simplesnacional/aplicacoes/atspo/pgdasd2018.app/",
+    "url_defis": "https://sinac.cav.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/defis.app/entrada.aspx"
+}
